@@ -13,3 +13,6 @@ A simple implementation of the classic Tic-Tac-Toe game built using Python (or s
 
 - Python (or: HTML, CSS, JavaScript)
 - Streamlit (for frameworks)
+
+  ## Link for the project
+  http://localhost:8501/
